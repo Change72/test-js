@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto-Update Script
 // @namespace    https://github.com/USERNAME/REPO
-// @version      1.0
+// @version      1.1
 // @description  Auto-updating script from GitHub
 // @author       YourName
 // @match        *://*/*
@@ -13,5 +13,5 @@
 
 (function() {
     'use strict';
-    console.log("Script is running. Updates are handled automatically by Tampermonkey.");
+    console.log("1.1 Script is running. Updates are handled automatically by Tampermonkey.");
 })();
