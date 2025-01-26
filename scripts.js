@@ -6,8 +6,8 @@
 // @author       YourName
 // @match        *://*/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Change72/test-js/refs/heads/main/PATH/scripts.js
-// @downloadURL  https://raw.githubusercontent.com/Change72/test-js/refs/heads/main/PATH/scripts.js
+// @updateURL    https://raw.githubusercontent.com/Change72/test-js/refs/heads/main/scripts.js
+// @downloadURL  https://raw.githubusercontent.com/Change72/test-js/refs/heads/main/scripts.js
 // ==/UserScript==
 
 
